@@ -10,6 +10,7 @@ class AuthController extends Controller
     {
         return view ('auth/index');
     }
+<<<<<<< HEAD
     public function create()
     {
         return view ('auth/create');
@@ -18,3 +19,6 @@ class AuthController extends Controller
 
 
   
+=======
+}
+>>>>>>> parent of 33d2ca9 (merubah route)
