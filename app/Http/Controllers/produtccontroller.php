@@ -19,7 +19,7 @@ class produtccontroller extends Controller
      */
     public function create()
     {
-        //
+        return view('auth.create');
     }
 
     /**
