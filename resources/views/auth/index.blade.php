@@ -1,6 +1,4 @@
-@extends('layout.template')
-        <!-- START DATA -->
-        @section('konten')
+  <!-- START DATA -->
         <div class="my-3 p-3 bg-body rounded shadow-sm">
                 <!-- TOMBOL TAMBAH DATA -->
                 <div class="pb-3">

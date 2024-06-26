@@ -15,3 +15,5 @@ Route::controller(produtccontroller::class)->group(function (){
 Route::controller(produtccontroller::class)->group(function (){
     Route::get('create','create',)->name('create');
 });
+
+
